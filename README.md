@@ -15,7 +15,7 @@ Clone the project
 You can try the Counter here:
 
 ```
-[https://javascriptbasiccounter.netlify.app](https://clever-stardust-0a9e80.netlify.app)
+https://clever-stardust-0a9e80.netlify.app
 ```
 
 - To use the Counter, simply click on the "+" button to increment your value.
